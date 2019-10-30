@@ -1,4 +1,4 @@
-# Perl 学习
+# Perl 脚本语言学习
 
 ![20191030_163746_71](image/20191030_163746_71.png)
 
@@ -8,10 +8,15 @@
 * Perl 借用了C、sed、awk、shell脚本以及很多其他编程语言的特性。
 * Perl 最重要的特性是Perl内部集成了正则表达式的功能，以及巨大的第三方代码库CPAN。
 
+```
+Something I hope you know before go into the coding~
+* First, please watch or star this repo, I'll be more happy if you follow me.
+* Bug report, questions and discussion are welcome, you can post an issue or pull a request.
+```
+
 ## 教程
 
 * <https://www.runoob.com/perl/perl-tutorial.html>
-
 
 ## 目录
 
