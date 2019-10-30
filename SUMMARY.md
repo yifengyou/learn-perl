@@ -25,3 +25,5 @@
 * [perl Socket编程](docs/perlSocket编程.md)
 * [perl包和模块](docs/perl包和模块.md)
 * [perl集成管理](docs/perl集成管理.md)
+* [perl POD文档](docs/perlPOD文档.md)
+
